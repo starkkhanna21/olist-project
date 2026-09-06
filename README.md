@@ -29,7 +29,7 @@ olist-project/
 │   └── input/
 │   └── output/
 ├── images/
-│   └── star_schema.png
+│   └── schema.png
 ├── main.ipynb
 └── README.md
 ```
